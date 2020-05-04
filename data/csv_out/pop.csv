@@ -1,0 +1,176 @@
+country,country_code,year,population(1000 personnes)
+Arménie,1,2013,2977
+Afghanistan,2,2013,30552
+Albanie,3,2013,3173
+Algérie,4,2013,39208
+Angola,7,2013,21472
+Antigua-et-Barbuda,8,2013,90
+Argentine,9,2013,41446
+Australie,10,2013,23343
+Autriche,11,2013,8495
+Bahamas,12,2013,377
+Barbade,14,2013,285
+Bangladesh,16,2013,156595
+Bermudes,17,2013,65
+Bolivie (État plurinational de),19,2013,10671
+Botswana,20,2013,2021
+Brésil,21,2013,200362
+Belize,23,2013,332
+Îles Salomon,25,2013,561
+Brunéi Darussalam,26,2013,418
+Bulgarie,27,2013,7223
+Myanmar,28,2013,53259
+Cameroun,32,2013,22254
+Canada,33,2013,35182
+Cabo Verde,35,2013,499
+République centrafricaine,37,2013,4616
+Sri Lanka,38,2013,21273
+Tchad,39,2013,12825
+Chili,40,2013,17620
+"Chine, continentale",41,2013,1385567
+Colombie,44,2013,48321
+Congo,46,2013,4448
+Costa Rica,48,2013,4872
+Cuba,49,2013,11266
+Chypre,50,2013,1141
+Azerbaïdjan,52,2013,9413
+Bénin,53,2013,10323
+Danemark,54,2013,5619
+Dominique,55,2013,72
+République dominicaine,56,2013,10404
+Bélarus,57,2013,9357
+Équateur,58,2013,15738
+Égypte,59,2013,82056
+El Salvador,60,2013,6340
+Estonie,63,2013,1287
+Fidji,66,2013,881
+Finlande,67,2013,5426
+France,68,2013,64291
+Polynésie française,70,2013,277
+Djibouti,72,2013,873
+Géorgie,73,2013,4341
+Gabon,74,2013,1672
+Gambie,75,2013,1849
+Allemagne,79,2013,82727
+Bosnie-Herzégovine,80,2013,3829
+Ghana,81,2013,25905
+Kiribati,83,2013,102
+Grèce,84,2013,11128
+Grenade,86,2013,106
+Guatemala,89,2013,15468
+Guinée,90,2013,11745
+Guyana,91,2013,800
+Haïti,93,2013,10317
+Honduras,95,2013,8096
+Chine - RAS de Hong-Kong,96,2013,7204
+Hongrie,97,2013,9955
+Croatie,98,2013,4290
+Islande,99,2013,330
+Inde,100,2013,1252140
+Indonésie,101,2013,249866
+Iran (République islamique d'),102,2013,77447
+Iraq,103,2013,33765
+Irlande,104,2013,4627
+Israël,105,2013,7733
+Italie,106,2013,60990
+Côte d'Ivoire,107,2013,20316
+Kazakhstan,108,2013,16441
+Jamaïque,109,2013,2784
+Japon,110,2013,127144
+Jordanie,112,2013,7274
+Kirghizistan,113,2013,5548
+Kenya,114,2013,44354
+Cambodge,115,2013,15135
+République populaire démocratique de Corée,116,2013,24895
+République de Corée,117,2013,49263
+Koweït,118,2013,3369
+Lettonie,119,2013,2050
+République démocratique populaire lao,120,2013,6770
+Liban,121,2013,4822
+Lesotho,122,2013,2074
+Libéria,123,2013,4294
+Lituanie,126,2013,3017
+Chine - RAS de Macao,128,2013,566
+Madagascar,129,2013,22925
+Malawi,130,2013,16363
+Malaisie,131,2013,29717
+Maldives,132,2013,345
+Mali,133,2013,15302
+Malte,134,2013,429
+Mauritanie,136,2013,3890
+Maurice,137,2013,1244
+Mexique,138,2013,122332
+Mongolie,141,2013,2839
+Maroc,143,2013,33008
+Mozambique,144,2013,25834
+République de Moldova,146,2013,3487
+Namibie,147,2013,2303
+Népal,149,2013,27797
+Pays-Bas,150,2013,16759
+Nouvelle-Calédonie,153,2013,256
+l'ex-République yougoslave de Macédoine,154,2013,2107
+Vanuatu,155,2013,253
+Nouvelle-Zélande,156,2013,4506
+Nicaragua,157,2013,6080
+Niger,158,2013,17831
+Nigéria,159,2013,173615
+Norvège,162,2013,5043
+Pakistan,165,2013,182143
+Panama,166,2013,3864
+Tchéquie (la),167,2013,10702
+Paraguay,169,2013,6802
+Pérou,170,2013,30376
+Philippines,171,2013,98394
+Pologne,173,2013,38217
+Portugal,174,2013,10608
+Guinée-Bissau,175,2013,1704
+Timor-Leste,176,2013,1133
+Zimbabwe,181,2013,14150
+Roumanie,183,2013,21699
+Rwanda,184,2013,11777
+Fédération de Russie,185,2013,142834
+Saint-Kitts-et-Nevis,188,2013,54
+Sainte-Lucie,189,2013,182
+Saint-Vincent-et-les Grenadines,191,2013,109
+Sao Tomé-et-Principe,193,2013,193
+Arabie saoudite,194,2013,28829
+Sénégal,195,2013,14133
+Sierra Leone,197,2013,6092
+Slovénie,198,2013,2072
+Slovaquie,199,2013,5450
+Afrique du Sud,202,2013,52776
+Espagne,203,2013,46927
+Suriname,207,2013,539
+Tadjikistan,208,2013,8208
+Eswatini,209,2013,1250
+Suède,210,2013,9571
+Suisse,211,2013,8078
+Turkménistan,213,2013,5240
+"Chine, Taiwan Province de",214,2013,23330
+République-Unie de Tanzanie,215,2013,49253
+Thaïlande,216,2013,67011
+Togo,217,2013,6817
+Trinité-et-Tobago,220,2013,1341
+Oman,221,2013,3632
+Tunisie,222,2013,10997
+Turquie,223,2013,74933
+Émirats arabes unis,225,2013,9346
+Ouganda,226,2013,37579
+Royaume-Uni,229,2013,63384
+Ukraine,230,2013,45239
+États-Unis d'Amérique,231,2013,320051
+Burkina Faso,233,2013,16935
+Uruguay,234,2013,3407
+Ouzbékistan,235,2013,28934
+Venezuela (République bolivarienne du),236,2013,30405
+Viet Nam,237,2013,91680
+Éthiopie,238,2013,94101
+Samoa,244,2013,190
+Yémen,249,2013,24407
+Zambie,251,2013,14539
+Belgique,255,2013,11104
+Luxembourg,256,2013,530
+Serbie,272,2013,9511
+Monténégro,273,2013,621
+Soudan,276,2013,37964
+Chine,351,2013,31100
